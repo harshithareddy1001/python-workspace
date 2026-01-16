@@ -16,3 +16,9 @@ elif "banana" in items:
     print("Yes, 'banana' is in the fruits list")
 else:
     print("fruit not found")
+for x in items:
+    print(x)
+for a in items:
+    if a=="apple":
+        print("found apple")
+    print(a)
